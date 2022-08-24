@@ -1,0 +1,17 @@
+C:\Users\JM2u\source\repos\Example1Chapter3\bin\Debug\net6.0-windows\Example1Chapter3.exe
+C:\Users\JM2u\source\repos\Example1Chapter3\bin\Debug\net6.0-windows\Example1Chapter3.deps.json
+C:\Users\JM2u\source\repos\Example1Chapter3\bin\Debug\net6.0-windows\Example1Chapter3.runtimeconfig.json
+C:\Users\JM2u\source\repos\Example1Chapter3\bin\Debug\net6.0-windows\Example1Chapter3.dll
+C:\Users\JM2u\source\repos\Example1Chapter3\bin\Debug\net6.0-windows\Example1Chapter3.pdb
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.vbproj.AssemblyReference.cache
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.Form1.resources
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.vbproj.GenerateResource.cache
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.AssemblyInfoInputs.cache
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.AssemblyInfo.vb
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.vbproj.CoreCompileInputs.cache
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.dll
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\refint\Example1Chapter3.dll
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.pdb
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\Example1Chapter3.genruntimeconfig.cache
+C:\Users\JM2u\source\repos\Example1Chapter3\obj\Debug\net6.0-windows\ref\Example1Chapter3.dll
